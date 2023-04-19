@@ -6,11 +6,13 @@
 - https://www.notion.so/explore-ai/Fibre-competitive-intensity-model-A-44b26c233fd6491e89dbfdf4002bf97d?pvs=4
 - https://www.notion.so/explore-ai/Fibre-competitive-intensity-model-8ca784a47f94488bbef521fb91fc43f5?pvs=4
 - s3.console.aws.amazon.com/s3/buckets/2207-16-fibre-competitive-intensity-model-a
+
 ## Team Members
 
-- Team Member Name 1
-- Team Member Name 2
-- ...
+- Gracious Ngetich
+- Tebogo Mngoma
+- Yusuf Kebande
+- Kabelo Tladi
 
 ## Environment
 
