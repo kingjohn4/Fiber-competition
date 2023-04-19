@@ -1,10 +1,11 @@
-# {{project_name}}
+# Fibre-competitive-intensity-model-a
 
 ## Project description
 
 - *Include a short paragraph about the project and the code artefacts in this project.*
-- *Provide any relevant external links, e.g. to Notion, your S3 bucket, etc.*
-
+- https://www.notion.so/explore-ai/Fibre-competitive-intensity-model-A-44b26c233fd6491e89dbfdf4002bf97d?pvs=4
+- https://www.notion.so/explore-ai/Fibre-competitive-intensity-model-8ca784a47f94488bbef521fb91fc43f5?pvs=4
+- s3.console.aws.amazon.com/s3/buckets/2207-16-fibre-competitive-intensity-model-a
 ## Team Members
 
 - Team Member Name 1
